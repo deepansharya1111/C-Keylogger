@@ -32,6 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Helper.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="KeyConstants.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
